@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+  <_name>Ink 2 SCAD</_name>
+  <id>command.openscad.polygons</id>
+  <dependency type="extension">org.inkscape.output.svg.inkscape</dependency>
+  <dependency type="executable" location="extensions">ink2scad.py</dependency>
+  <dependency type="executable" location="extensions">inkex.py</dependency>
+  <dependency type="executable" location="extensions">simpletransform.py</dependency>
+  <dependency type="executable" location="extensions">cubicsuperpath.py</dependency>
+  <dependency type="executable" location="extensions">cspsubdiv.py</dependency>
+  <dependency type="executable" location="extensions">bezmisc.py</dependency>
+
+<param name="tab" type="notebook">
+  <page name="splash" _gui-text="Ink 2 SCAD">
+    <_param name="header" type="description" xml:space="preserve">
+The smoothing parameter describes how smoothly to render
+curves. Use smaller values for smoother curves.
+</_param>
+    <param name="fname" type="string" _gui-text="Output file">~/ink2scad.scad</param>
+    <param name="smoothness" type="float" min="0.0001" max="5" _gui-text="Smoothing">0.2</param>
+    <param name="precision" type="int" min="0" max="6" _gui-text="Precision">3</param>
+  </page>
+  <page name="info" _gui-text="About...">
+    <_param name="aboutpage" type="description" xml:space="preserve">
+Converts Inkscape paths to OpenSCAD modules.
+Before using, first convert objects to paths
+with the "Path &gt; Object to Path"
+menu item.
+
+All units are converted to millimeters, so
+it is advisable to set the inkscape's document
+preference's default units to millimeters.
+
+ink2scad by Nick Robinson ( nick the coder @ g mail com )
+
+Forked from "paths2openscad" :
+v0.11
+Dan Newman (dan newman @ mtbaldy us)
+Josef Skladanka (jskladan @ redhat com)
+
+</_param>
+  </page>
+</param>
+
+  <effect needs-live-preview="false">
+    <object-type>all</object-type>
+    <effects-menu>
+      <submenu _name="Generate from Path"/>
+    </effects-menu>
+  </effect>
+  <script>
+    <command reldir="extensions" interpreter="python">ink2scad.py</command>
+  </script>
+</inkscape-extension>
+

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448"
+   height="1052.3622"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="example.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="384.99999"
+     inkscape:cy="497.14285"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="985"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="mm">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3763"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       units="mm"
+       spacingx="1mm"
+       spacingy="1mm" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-2.5390623e-6)">
+    <rect
+       inkscape:label="#rect1"
+       ry="0"
+       y="403.79153"
+       x="37.097851"
+       height="79.999214"
+       width="174.33072"
+       id="rect1"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="M 58.571429,772.93361 20,971.54968 344.3125,962.97825 331.45536,794.36218 z m 32.741071,78.61607 192.91518,-32.85714 -18.57143,112.85714 -174.34375,0 z"
+       id="holed1"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="-177.15625"
+       inkscape:transform-center-y="88.59375"
+       sodipodi:nodetypes="cccccccccc" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect2"
+       width="174.33072"
+       height="79.999214"
+       x="-434.28571"
+       y="402.36298"
+       ry="0"
+       inkscape:label="#rect2"
+       transform="scale(-1,1)" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="60"
+       y="373.79074"
+       id="text2995"
+       sodipodi:linespacing="125%"
+       transform="translate(0,2.5390623e-6)"><tspan
+         sodipodi:role="line"
+         id="tspan2997"
+         x="60"
+         y="373.79074">These two rectangles are mirror images, so their verticies wind in opposite directions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="58.57143"
+       y="730.93359"
+       id="text2999"
+       sodipodi:linespacing="125%"
+       transform="translate(0,2.5390623e-6)"><tspan
+         sodipodi:role="line"
+         id="tspan3001"
+         x="58.57143"
+         y="730.93359">Test that holed shapes work (and its mirror image)</tspan></text>
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:transform-center-y="88.59375"
+       inkscape:transform-center-x="177.15625"
+       inkscape:connector-curvature="0"
+       id="holed2"
+       d="m 694.3125,773.79075 38.57143,198.61607 -324.3125,-8.57143 12.85714,-168.61607 z m -32.74107,78.61607 -192.91518,-32.85714 18.57143,112.85714 174.34375,0 z"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 637.79528,308.26769 17.71653,-265.748027 -283.46457,0 z"
+       id="path3281"
+       inkscape:connector-curvature="0"
+       transform="translate(0,2.5390623e-6)"
+       sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="70.866142"
+       y="24.803129"
+       id="text2995-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2997-7"
+         x="70.866142"
+         y="24.803129">A simple shape, which can be extruded to chamfer at a 45 degree angle.</tspan></text>
+  </g>
+</svg>
